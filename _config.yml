@@ -1,43 +1,27 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: mfgmateus/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+name: Mateus Ferreira
+title: Senior Software Engineer
+email: mateusferreira.it@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username:  mfgmateus
+linkedin_username: mfgmateus
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+  # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  # url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,15 +34,12 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: https://media.licdn.com/dms/image/C4D03AQGRCoO1K0cTuw/profile-displayphoto-shrink_200_200/0/1646227301163?e=1691020800&v=beta&t=8ANTV7BWPBJyg2Ua-lQRuuOpXUDwnjhGsRoGsRcj2ww
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Experience Software Developer with more than 7 years in IT area. Worked in several projects, such as Banking, Credit-Card, Telecom, e-Commerce and Crypto.
+  Works primarily as Backend Developer with Java and Kotlin and it's used to work with frameworks like Spring, Dropwizard and also with other technologies like Kafka, Redis, ElasticSearch, MongoDB.
+  It's experienced on Agile Methdos such as Scrum/Kanban and worked in different type of Projects configurations such as Squads or Pods.
+  Has experience in Docker, Kubernetes and AWS.
 
 content:
   - title: Projects # Title for the section
